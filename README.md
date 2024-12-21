@@ -65,4 +65,4 @@ This project was created as part of my portfolio to demonstrate expertise in bui
 
 
 ## Demo 
-![/demo-video](./demo/run.mp4)
+[demo](demo/run.mp4)
